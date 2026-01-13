@@ -1,0 +1,31 @@
+{
+    "originalName": "Bad Boys for Life",
+    "localName": "Плохие парни навсегда",
+    "description": "Продолжение приключений Майка и Маркуса, навсегда остающихся плохими парнями.",
+    "averageRating": 4.4,
+    "createdAt": "2021-09-14",
+    "countries": "США, Мексика",
+    "slogan": "Новая глава.",
+    "producers": "Уилл Смит, Джерри Брукхаймер, Даглас Белград, Барри Уолдман",
+    "screenwriters": "Крис Бреймер, Питер Крэйг, Дэвид Гаглио",
+    "operators": "Роберто Шейфелд",
+    "composers": "Лорн Белф",
+    "designers": "Джонатан Карпентер",
+    "editors": "Дэн Лебентал, Питер МакКензи",
+    "worldwideGross": "$206,305,244",
+    "worldPremiereDate": "2020-01-06",
+    "localPremiereDate": "2020-01-16",
+    "ageCategory": "R",
+    "durationByMin": 124,
+    "quotes": [
+        "Новая глава.",
+        "Плохие парни навсегда."
+    ],
+    "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/a630fd02-3321-4154-ae20-053b91a92462.jpeg",
+    "genres": [
+        "Боевик",
+        "Криминал",
+        "Комедия"
+    ],
+    "backgroundImage": "http://192.168.102.31:8080/api/upload/movieBackIcon/26be27b7-e672-401a-8bbc-4ef1f407a8f2.jpeg"
+}

@@ -1,0 +1,31 @@
+{
+    "originalName": "Star Wars: Episode IX - The Rise of Skywalker",
+    "localName": "Звездные войны. Скайвокер. Восход",
+    "description": "Завершающая часть новой трилогии саги о Звездных войнах. Продолжение истории о борьбе света и тьмы.",
+    "averageRating": 4.5,
+    "createdAt": "2021-10-10",
+    "countries": "США",
+    "slogan": "Завершение саги.",
+    "producers": "Кэтлин Кеннеди, Дж.Д. Диллингер, Колин Треворроу, Крис Террио",
+    "screenwriters": "Дж.Д. Диллингер, Колин Треворроу",
+    "operators": "Дэн Миндел",
+    "composers": "Джон Уильямс",
+    "designers": "Рик Картер",
+    "editors": "Мэрианн Брэндон, Стефен Миррон",
+    "worldwideGross": "$1,074,144,248",
+    "worldPremiereDate": "2019-12-16",
+    "localPremiereDate": "2019-12-19",
+    "ageCategory": "PG-13",
+    "durationByMin": 142,
+    "quotes": [
+        "Завершение саги.",
+        "Свет всегда найдет способ вернуться."
+    ],
+    "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/0c76799c-c612-438a-a8fd-f86254fec626.jpeg",
+    "genres": [
+        "Боевик",
+        "Фантастика",
+        "Приключения"
+    ],
+    "backgroundImage": "http://192.168.102.31:8080/api/upload/movieBackIcon/4da5342a-748a-4c3d-a7e1-c8656d1bc7f4.jpeg"
+}

@@ -1,0 +1,31 @@
+{
+    "originalName": "Joker",
+    "localName": "Джокер",
+    "description": "Фильм о происхождении и становлении одного из самых известных антагонистов в мире комиксов - Джокера.",
+    "averageRating": 4.9,
+    "createdAt": "2021-09-25",
+    "countries": "США, Канада",
+    "slogan": "Верьте злобной улыбке.",
+    "producers": "Тодд Филлипс, Брэдли Купер, Эмма Тиллинг, Алан Гловер",
+    "screenwriters": "Тодд Филлипс, Скотт Сильвер",
+    "operators": "Лоуренс Шер",
+    "composers": "Хильдур Гуднадоттир",
+    "designers": "Марк Фризби",
+    "editors": "Джефф Грот, Джефф Грот, Эрнесто Диаз Эспарса",
+    "worldwideGross": "$1,074,251,311",
+    "worldPremiereDate": "2019-08-31",
+    "localPremiereDate": "2019-10-03",
+    "ageCategory": "R",
+    "durationByMin": 122,
+    "quotes": [
+        "Верьте злобной улыбке.",
+        "У каждого своя история."
+    ],
+    "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/69bd1b48-0098-4c99-b085-05df422df29e.jpeg",
+    "genres": [
+        "Криминал",
+        "Триллер",
+        "Драма"
+    ],
+    "backgroundImage": "http://192.168.102.31:8080/api/upload/movieBackIcon/5a237b02-c9a7-4219-bb17-cfa73086d592.jpeg"
+}

@@ -1,0 +1,88 @@
+[
+    {
+        "id": "1f042715-321c-4a28-ad93-41c72e287136",
+        "localName": "Джокер",
+        "genres": [
+            "Криминал",
+            "Триллер",
+            "Драма"
+        ],
+        "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/69bd1b48-0098-4c99-b085-05df422df29e.jpeg",
+        "averageRating": 4.9
+    },
+    {
+        "id": "643e3476-851d-46fd-a845-f93689943176",
+        "localName": "Джентельмены",
+        "genres": [
+            "Боевик",
+            "Криминал",
+            "Комедия"
+        ],
+        "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/341d788b-40c5-45e6-ba85-a13b3ffb0895.jpeg",
+        "averageRating": 4.7
+    },
+    {
+        "id": "6c74c666-d76f-42d3-bd0e-2e5442583eb0",
+        "localName": "Побег из Претории",
+        "genres": [
+            "Триллер",
+            "Драма"
+        ],
+        "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/3a8f1207-4e2a-46df-b603-2a4d0b6e7d05.jpeg",
+        "averageRating": 4.6
+    },
+    {
+        "id": "7285fb3c-1d49-4ac2-ab24-a8a628f2575a",
+        "localName": "Хищные птицы. Потрясающая история Харли Квинн",
+        "genres": [
+            "Боевик",
+            "Криминал",
+            "Комедия"
+        ],
+        "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/8578579e-a67d-4964-b1ed-0a13c5a91b12.jpeg",
+        "averageRating": 4.2
+    },
+    {
+        "id": "7c20e4d0-486c-41dc-96f9-679e9c1231c6",
+        "localName": "Плохие парни навсегда",
+        "genres": [
+            "Боевик",
+            "Криминал",
+            "Комедия"
+        ],
+        "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/a630fd02-3321-4154-ae20-053b91a92462.jpeg",
+        "averageRating": 4.4
+    },
+    {
+        "id": "936c7c50-b5db-430b-a322-4e1af90bc19d",
+        "localName": "Ford против Ferrari",
+        "genres": [
+            "Биография",
+            "Спорт",
+            "Драма"
+        ],
+        "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/2104c1bf-dc0a-4ef2-9d96-7d95184700db.jpeg",
+        "averageRating": 4.8
+    },
+    {
+        "id": "936c8a10-724f-4260-aa30-f35c2e57e8c7",
+        "localName": "Звездные войны. Скайвокер. Восход",
+        "genres": [
+            "Боевик",
+            "Фантастика",
+            "Приключения"
+        ],
+        "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/0c76799c-c612-438a-a8fd-f86254fec626.jpeg",
+        "averageRating": 4.5
+    },
+    {
+        "id": "b3104bfd-1f49-49a7-b535-c4afbba17606",
+        "localName": "3022",
+        "genres": [
+            "Научная фантастика",
+            "Триллер"
+        ],
+        "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/a285f3c3-b4c0-4566-83a5-f7841a6c98e8.jpeg",
+        "averageRating": 3.9
+    }
+]

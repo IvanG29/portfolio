@@ -1,0 +1,31 @@
+{
+    "originalName": "The Gentlemen",
+    "localName": "Джентельмены",
+    "description": "Криминальная комедия о британских наркобаронах и американском миллиардере, желающем приобрести их бизнес.",
+    "averageRating": 4.7,
+    "createdAt": "2021-09-22",
+    "countries": "Великобритания, США",
+    "slogan": "Все только деловые.",
+    "producers": "Гай Ричи, Иван Аткинсон, Билли Мапле Томас",
+    "screenwriters": "Гай Ричи, Иван Аткинсон, Мэрим Байроуз",
+    "operators": "Алан Стюарт",
+    "composers": "Кристофер Бенн",
+    "designers": "Джейми Холброк",
+    "editors": "Джеймс Херберт",
+    "worldwideGross": "$115,781,739",
+    "worldPremiereDate": "2019-12-03",
+    "localPremiereDate": "2020-02-20",
+    "ageCategory": "R",
+    "durationByMin": 113,
+    "quotes": [
+        "Все только деловые.",
+        "Не беспокойся, они поедут домой в карточном ящике."
+    ],
+    "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/341d788b-40c5-45e6-ba85-a13b3ffb0895.jpeg",
+    "genres": [
+        "Боевик",
+        "Криминал",
+        "Комедия"
+    ],
+    "backgroundImage": "http://192.168.102.31:8080/api/upload/movieBackIcon/c9b95538-dec1-41e5-ba6d-7a93a209d473.jpeg"
+}

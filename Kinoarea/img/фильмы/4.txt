@@ -1,0 +1,31 @@
+{
+    "originalName": "Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)",
+    "localName": "Хищные птицы. Потрясающая история Харли Квинн",
+    "description": "Фильм о приключениях Харли Квинн и ее подруг, собравшихся вместе, чтобы спасти молодую девушку от злодеев.",
+    "averageRating": 4.2,
+    "createdAt": "2021-09-05",
+    "countries": "США",
+    "slogan": "Квинн - веселье!",
+    "producers": "Маргот Робби, Сью Сонг, Брайан Адамс, Коллинс Ягер",
+    "screenwriters": "Кристина Ходсон",
+    "operators": "Мэтью Либатик",
+    "composers": "Даниэль Пембертон",
+    "designers": "Керин Фитцжеральд",
+    "editors": "Джей Си Эллиот, Эван Шаффер",
+    "worldwideGross": "$201,858,461",
+    "worldPremiereDate": "2020-01-25",
+    "localPremiereDate": "2020-02-06",
+    "ageCategory": "R",
+    "durationByMin": 109,
+    "quotes": [
+        "Квинн - веселье!",
+        "Сделаем это вместе."
+    ],
+    "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/8578579e-a67d-4964-b1ed-0a13c5a91b12.jpeg",
+    "genres": [
+        "Боевик",
+        "Криминал",
+        "Комедия"
+    ],
+    "backgroundImage": "http://192.168.102.31:8080/api/upload/movieBackIcon/075503e5-b3d7-49a9-baa7-dcb235ea7107.jpeg"
+}

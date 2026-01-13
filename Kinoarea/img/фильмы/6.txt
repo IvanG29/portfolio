@@ -1,0 +1,31 @@
+{
+    "originalName": "Ford v Ferrari",
+    "localName": "Ford против Ferrari",
+    "description": "Биографический фильм о гонках Le Mans 1966 года и борьбе между автомобильными компаниями Ford и Ferrari.",
+    "averageRating": 4.8,
+    "createdAt": "2021-09-18",
+    "countries": "США",
+    "slogan": "Нам нужно машины. Гонки не для нас.",
+    "producers": "Адам Мерц, Кэтлин Кеннеди, Джеймс Мэнголд",
+    "screenwriters": "Джеймс Мэнголд, Джейсон Келлер, Дж.Д. Диллингер",
+    "operators": "Федерико Мариньяк",
+    "composers": "Марко Белтрами",
+    "designers": "Франсуа Оден",
+    "editors": "Андрю Бакст, Майкл МакКаскер",
+    "worldwideGross": "$225,508,202",
+    "worldPremiereDate": "2019-11-04",
+    "localPremiereDate": "2019-11-14",
+    "ageCategory": "PG-13",
+    "durationByMin": 152,
+    "quotes": [
+        "Нам нужно машины. Гонки не для нас.",
+        "Их не уделаешь."
+    ],
+    "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/2104c1bf-dc0a-4ef2-9d96-7d95184700db.jpeg",
+    "genres": [
+        "Биография",
+        "Спорт",
+        "Драма"
+    ],
+    "backgroundImage": "http://192.168.102.31:8080/api/upload/movieBackIcon/9672f37c-464d-473b-a317-ddc7dd7b1070.jpeg"
+}

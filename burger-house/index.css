@@ -1,0 +1,587 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1920px;
+}
+
+header {
+    background-image: url("Img-icons/Rectangle.png");
+    max-width: 100%;
+}
+
+.container-header {
+    padding: 0px 5rem;
+}
+
+.header__top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+
+    .header__contact {
+        a {
+            text-decoration: none;
+            color: #000;
+            font-weight: 700;
+        }
+    }
+}
+
+.header__navigation {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+}
+
+.nav-navigation {
+
+    .nav__ul {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 2.5rem;
+    }
+
+    .nav__li {
+        text-transform: uppercase;
+        list-style: none;
+    }
+
+    .nav__link {
+        text-decoration: none;
+        color: #000;
+        font-weight: 300;
+        font-size: 18px;
+    }
+}
+
+.nav-promotion {
+    .nav__ul {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .nav__li-border {
+        text-transform: uppercase;
+        list-style: none;
+        text-decoration: none;
+        color: #000;
+        font-weight: 300;
+        font-size: 16px;
+        border: 0.15rem #000 dashed;
+        padding: 0.75rem;
+    }
+
+    .nav__li {
+        text-transform: uppercase;
+        list-style: none;
+        text-decoration: none;
+
+
+        font-size: 100px;
+        font-weight: 900;
+        color: #312424;
+        margin: 0;
+        line-height: 0.9;
+        text-shadow: 0px 0px 0 #fff, 0px 0px 0 #fff, 0px 0px 0 #fff, 2px 4px 0 #fff;
+
+    }
+
+}
+
+.layout-container {
+    display: flex;
+    gap: 20px;
+    max-width: 1000px;
+    margin: 5rem auto;
+}
+
+.right-blocks-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex: 1;
+}
+
+.image-card {
+    position: relative;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.image-card__image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.image-card__overlay {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: white;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+}
+
+.image-card__tagline {
+    font-size: 16px;
+    font-weight: 800;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.image-card__title {
+    font-size: 24px;
+    font-weight: 800;
+    margin: 0;
+    line-height: 1.1;
+}
+
+.image-card--large {
+    width: 500px;
+    height: 300px;
+}
+
+.image-card--small {
+    height: 140px;
+}
+
+.text-section {
+    max-width: 1000px;
+    margin: 40px auto;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.text-section__subtitle {
+    display: inline;
+    justify-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+    background-color: rgb(251, 176, 38);
+    padding: 0.7rem;
+}
+
+.text-section__title {
+    padding: 2rem 0;
+    text-transform: uppercase;
+    font-size: 60px;
+    font-weight: 900;
+    color: #312424;
+    margin: 0;
+    line-height: 0.9;
+}
+
+.text-section__description {
+    color: #666;
+    margin: 0 auto;
+}
+
+.burger-menu {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.burger-menu__header {
+    margin-bottom: 30px;
+}
+
+.burger-menu__subtitle {
+    font-size: 24px;
+    font-weight: 800;
+    color: #333;
+    margin: 0;
+}
+
+.burger-menu__list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.burger-card {
+    background-color: #fff;
+    border-radius: 5px;
+    flex: 1 1 300px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.burger-card__image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.burger-card__content {
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.burger-card__title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin: 0 0 10px 0;
+}
+
+.burger-card__description {
+    font-size: 14px;
+    color: #666;
+    margin: 0 0 20px 0;
+    flex-grow: 1;
+}
+
+.burger-card__button {
+    background-color: #e54b38;
+    color: white;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 20px 0;
+    text-decoration: none;
+    border-radius: 3px;
+    font-weight: 800;
+    display: inline-block;
+    margin-top: auto;
+}
+
+.events-section {
+    background-color: #f7f7f7;
+    padding: 60px 0;
+}
+
+.events-section__container {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.events-section__content {
+    padding: 40px;
+    flex: 1;
+}
+
+.events-section__tagline {
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+    margin: 0 0 5px 0;
+}
+
+.events-section__title {
+    font-size: 28px;
+    font-weight: 900;
+    color: #333;
+    margin: 0 0 20px 0;
+}
+
+.events-section__description {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+    margin: 0 0 30px 0;
+}
+
+.events-section__image-wrapper {
+    background-color: #fcfcfc;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.events-section__image {
+    max-width: 100%;
+    height: auto;
+}
+
+.events-section__dots {
+    display: flex;
+    gap: 10px;
+}
+
+.events-section__dot {
+    width: 10px;
+    height: 10px;
+    background-color: #ccc;
+    border-radius: 50%;
+}
+
+.events-section__dot--active {
+    background-color: #ffc72c;
+}
+
+
+.reservation-section {
+    background-color: #f7f7f7;
+    padding: 40px 0;
+}
+
+.reservation-section__content {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+/* .reservation-section__text {
+
+} */
+
+.reservation-section__subtitle {
+    font-size: 12px;
+    font-weight: bold;
+    color: #e54b38;
+    margin: 0;
+}
+
+.reservation-section__title {
+    font-size: 32px;
+    font-weight: 900;
+    color: #333;
+    margin: 0;
+    font-family: 'Georgia', serif;
+}
+
+.reservation-form {
+    background-image: url('Img-icons/Image1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 18rem 0;
+}
+
+.reservation-form__container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+
+.reservation-form__image-wrapper {
+    flex-basis: 150px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.reservation-form__image {
+    max-height: 250px;
+    width: auto;
+}
+
+.reservation-form__content {
+    flex-grow: 1;
+    padding: 40px 20px;
+}
+
+.reservation-form__header {
+    margin-bottom: 30px;
+}
+
+.reservation-form__tagline {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin: 0 0 5px 0;
+}
+
+.reservation-form__title {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 800;
+    color: #333;
+    margin: 0;
+}
+
+.reservation-form__grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group--button {
+    align-self: flex-end;
+}
+
+.form-group__label {
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group__input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.reservation-form__button {
+    background-color: #e54b38;
+    color: white;
+    padding: 11px 20px;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 100%;
+}
+
+.reservation-form__food-image-wrapper {
+    flex-basis: 300px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.reservation-form__food-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.hero-banner {
+    background-image: url('Img-icons/Place\ Your\ Design\ Here\ \(Double\ Click\ to\ Edit\)2.png');
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.hero-banner__container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-image: url('path_to_background_burger_image.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 400px;
+    position: relative;
+}
+
+.hero-banner__container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.hero-banner__content,
+.hero-banner__contact-info {
+    position: relative;
+    z-index: 10;
+}
+
+.hero-banner__logo-area {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.hero-banner__icon {
+    width: 100%;
+    margin-right: 15px;
+    filter: invert(1);
+}
+
+.hero-banner__title {
+    font-size: 32px;
+    font-weight: 800;
+    margin: 0;
+}
+
+.hero-banner__description {
+    font-size: 16px;
+    color: #ccc;
+    max-width: 400px;
+    line-height: 1.4;
+}
+
+.hero-banner__contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.contact-item__icon {
+    width: 16px;
+    margin-right: 10px;
+    filter: invert(0);
+}
+
+.contact-item__text {
+    font-size: 12px;
+    margin: 0;
+    text-align: right;
+}
+
+.hero-banner__socials {
+    margin-top: 20px;
+    display: flex;
+    gap: 15px;
+}
+
+.social-icon {
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-banner__footer {
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.hero-banner__copyright {
+    font-size: 12px;
+    color: #ccc;
+    margin: 0;
+}

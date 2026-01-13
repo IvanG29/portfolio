@@ -1,0 +1,30 @@
+{
+    "originalName": "Escape from Pretoria",
+    "localName": "Побег из Претории",
+    "description": "Фильм о побеге политических заключенных из тюрьмы в Южной Африке.",
+    "averageRating": 4.6,
+    "createdAt": "2021-09-20",
+    "countries": "Великобритания, Австралия",
+    "slogan": "Безумное наследие.",
+    "producers": "Дэвид Барнетт, Майкл Борроуз",
+    "screenwriters": "Фрэнсис Анн Слейд, Тим Дженкин",
+    "operators": "Джулиан Лукас",
+    "composers": "Дэвид Хиршфельдер",
+    "designers": "Джонафан Лаверди",
+    "editors": "Ник Фоли",
+    "worldwideGross": "$1,193,862",
+    "worldPremiereDate": "2020-03-06",
+    "localPremiereDate": "2020-03-12",
+    "ageCategory": "PG-13",
+    "durationByMin": 106,
+    "quotes": [
+        "Безумное наследие.",
+        "Нам нужна свобода."
+    ],
+    "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/3a8f1207-4e2a-46df-b603-2a4d0b6e7d05.jpeg",
+    "genres": [
+        "Триллер",
+        "Драма"
+    ],
+    "backgroundImage": "http://192.168.102.31:8080/api/upload/movieBackIcon/1ab5d8ea-cf53-4263-9a35-8ff0412534f2.jpeg"
+}

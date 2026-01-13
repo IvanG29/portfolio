@@ -1,0 +1,30 @@
+{
+    "originalName": "3022",
+    "localName": "3022",
+    "description": "Научно-фантастический фильм о космической станции, на которой экипаж пытается выжить после загадочного события.",
+    "averageRating": 3.9,
+    "createdAt": "2021-09-11",
+    "countries": "США",
+    "slogan": "Выживут только сильнейшие.",
+    "producers": "Майкл Менчел, Майкл Шиц, Ребекка Гайнор",
+    "screenwriters": "Райан Бин, Шон Кэннон",
+    "operators": "Райан Сэвэдж",
+    "composers": "Энджи Ле",
+    "designers": "Тимоти Дэвис",
+    "editors": "Джеймс Копелман",
+    "worldwideGross": "$29,055",
+    "worldPremiereDate": "2019-11-22",
+    "localPremiereDate": "2020-02-20",
+    "ageCategory": "R",
+    "durationByMin": 91,
+    "quotes": [
+        "Выживут только сильнейшие.",
+        "Это не мои проблемы."
+    ],
+    "urlIcon": "http://192.168.102.31:8080/api/upload/movieIcon/a285f3c3-b4c0-4566-83a5-f7841a6c98e8.jpeg",
+    "genres": [
+        "Научная фантастика",
+        "Триллер"
+    ],
+    "backgroundImage": "http://192.168.102.31:8080/api/upload/movieBackIcon/c4a28e50-20fb-4141-a091-3c2b8adc6d86.jpeg"
+}
