@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Gradient-css</title>
+</head>
+
+<body>
+    <div class="controls">
+        <input type="color" id="color1" value="#ff0000">
+        <input type="color" id="color2" value="#ffff00">
+        <input type="range" id="angle" min="0" max="360" value="90">
+        <label for="gradient-type">Тип градиента:</label>
+        <select id="gradient-type">
+            <option value="linear">Линейный</option>
+            <option value="radial">Радиальный</option>
+        </select>
+    </div>
+
+    <div id="gradient-box"></div>
+    <pre id="css-code">background: linear-gradient(90deg, #ff0000, #ffff00);</pre>
+
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
